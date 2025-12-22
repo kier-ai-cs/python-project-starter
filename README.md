@@ -141,6 +141,11 @@ logger.debug(f"데이터 경로: {PATHS['data']}")
 logger.error("데이터 로딩 중 치명적인 오류 발생.")
 ```
 
+----- 
+
+## TODO 
+- [ ] **Agent Skills** 추가 (참고 [https://github.com/agentskills/agentskills](https://github.com/agentskills/agentskills))
+
 -----
 
 ## 라이선스
